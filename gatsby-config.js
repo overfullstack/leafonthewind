@@ -76,6 +76,12 @@ module.exports = {
         trackingId: settings.ga,
       },
     },
+    {
+      resolve: `gatsby-plugin-google-gtag`,
+      options: {
+        trackingIds: [`G-52VTQ4N3XL`],
+      },
+    },
     `gatsby-plugin-advanced-sitemap`,
     {
       resolve: `gatsby-plugin-manifest`,
