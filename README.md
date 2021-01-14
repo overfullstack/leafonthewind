@@ -146,7 +146,6 @@ I would love to get your feedback and contributions.
 
 Feel free to ping [@stackrole](stackrole) for help regarding your JAMstack website, our DM's are open. And do not forget to share you website with me 😊
 
-[![Check out Stackrole.com - A Jamstack marketplace](static/assets/twitter-header.jpg)](https://stackrole.com)
 
 [gatsby]: https://gatsbyjs.org
 [netlifyCMS]: https://www.netlifycms.org
