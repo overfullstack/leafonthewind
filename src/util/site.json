@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Gopal S Akshintala | Leaf on the Wind",
+    "title": "Gopal S Akshintala",
     "titleTemplate": "%s",
     "description": "My Creative Blog",
     "siteUrl": "https://leafonthewind.ga",
-    "image": "/assets/.png",
-    "iconimage": "/assets/leaf.jpg",
+    "image": "/assets/leaf.png",
+    "iconimage": "/assets/leaf-icon.jpg",
     "twitterUsername": "@GopalAkshintala"
   },
   "ga": "G-52VTQ4N3XL"

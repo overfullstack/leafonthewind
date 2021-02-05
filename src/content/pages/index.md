@@ -8,4 +8,3 @@ cta:
   ctaText: Know more
   ctaLink: /about
 ---
-Under Construction
