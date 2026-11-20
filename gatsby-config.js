@@ -27,6 +27,8 @@ module.exports = {
       options: {
         path: `${__dirname}/src/content/`,
         name: `content`,
+        // Files under src/content/drafts are kept in the repo but not published.
+        ignore: [`**/drafts/**`],
       },
     },
     `gatsby-transformer-sharp`,
